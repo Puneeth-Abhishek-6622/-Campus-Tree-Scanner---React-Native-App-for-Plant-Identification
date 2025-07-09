@@ -1,5 +1,5 @@
 # Create the README.md content as a markdown string
-readme_content = """
+
 # 🌿 Campus Tree Scanner
 
 An AI-powered **React Native mobile application** that helps students and nature enthusiasts **identify trees and plants on their campus** by simply capturing or uploading a photo. The app uses image recognition and integrates with the **Plant.id API** (with option to switch to PlantNet) to return likely plant matches with detailed descriptions, taxonomy, and similar images.
